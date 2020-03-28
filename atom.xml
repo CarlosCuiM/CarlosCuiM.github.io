@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Blog marks life</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-03-28T22:26:27+08:00</updated>
+    <updated>2020-03-28T22:27:22+08:00</updated>
     <id>http://carloscuim.github.io/</id>
     <link rel="alternate" type="text/html" href="http://carloscuim.github.io/" />
     <link rel="self" type="application/atom+xml" href="http://carloscuim.github.io/atom.xml" />
