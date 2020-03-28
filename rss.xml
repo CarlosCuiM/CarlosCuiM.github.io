@@ -19,7 +19,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 28 Mar 2020 22:22:31 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2020 22:26:27 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="http://carloscuim.github.io/rss.xml" />
         
@@ -33,6 +33,7 @@
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description><![CDATA[<p>之前用hexo搭博客，但是next主题实在是太难配置了，而且我很讨厌js。这次直接用EmeM主题。顺便写个test测试下。</p>
+<p>对了，一般新手就开始弄花里胡哨主题的新手，都写不了几篇博客，以我为例。</p>
 ]]></description>
                 
                 
